@@ -13,8 +13,8 @@ function Projects() {
       description: "A clean and intuitive task management app with features like add, edit, delete, and mark tasks as complete. Built with React and local storage for data persistence.",
       image: todoImage,
       tech: ["HTML", "CSS", "JavaScript"],
-      liveLink: "https://poetic-palmier-f2268a.netlify.app/",
-      codeLink: "https://github.com/MdSufiyanAzmat/ToDo-App-Using-JS"
+      liveLink: "https://todowithlocalstorages.netlify.app/",
+      codeLink: "https://github.com/MdSufiyanAzmat/ToDo-App-With-Local-Storage"
     },
     {
       id: 2,
