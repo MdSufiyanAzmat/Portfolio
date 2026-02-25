@@ -12,14 +12,9 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 
 - **📱 Fully Responsive** - Perfect on desktop, tablet, and mobile devices
 - **🎨 Modern Design** - Clean, professional layout with smooth animations
-- **⚡ Fast Loading** - Optimized images and minimal dependencies
-- **🌙 Dark/Light Mode** - Toggle between themes (if implemented)
 - **📊 Project Showcase** - Filterable gallery of your best work
-- **📝 Blog Section** - Share your thoughts and tutorials (optional)
 - **📬 Contact Form** - Easy way for visitors to reach you
 - **🔍 SEO Optimized** - Meta tags and semantic HTML for better visibility
-- **📈 Analytics Ready** - Easy integration with Google Analytics
-- **♿ Accessibility** - WCAG compliant for inclusive design
 
 ## 🛠️ Technologies Used
 
